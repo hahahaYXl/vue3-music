@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "网易云音乐",
+  "usingComponents": {
+    "search": "./search/index",
+    "banner": "./banner/index"
+  }
+}
